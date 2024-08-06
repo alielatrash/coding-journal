@@ -1,0 +1,31 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.title,
+.main {
+    padding: 10px;
+}
+
+.title {
+    background-color: rgb(227, 227, 227);
+    font-weight: 1000;
+    font-size: 18px;
+}
+
+.main {
+    
+}
+
+p {
+    font-size: 13px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+li {
+    font-size: 12px;
+}
