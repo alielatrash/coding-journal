@@ -1,17 +1,23 @@
 * {
     font-family: 'Courier New', Courier, monospace;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 
 
 .title,
 .main {
-    padding: 10px;
+    padding: 5px;
 }
 
 .title {
     background-color: rgb(227, 227, 227);
     font-weight: 1000;
-    font-size: 18px;
+    font-size: 14px;
+    height: 70px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
 }
 
 .main {
@@ -28,4 +34,19 @@ h2 {
 
 li {
     font-size: 12px;
+    margin: 0px;
+}
+
+a {
+    text-align: left;
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.img {
+    padding-top: 20px;
+    margin: 0px;
 }
